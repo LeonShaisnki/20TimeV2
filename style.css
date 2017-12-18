@@ -9,6 +9,15 @@
   top: 50%;
 }
 
+#car2 {
+  height: 80px;
+  left 5%;
+  position: absolute;
+  right: 20%;
+  top: 85%;
+
+}
+
 .panel {
   display: flex;
   justify-content: center;
